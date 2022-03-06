@@ -1,5 +1,5 @@
 # Conceitos ReactJS
 
-Desafio da etapa 1 do Ignite na trilha de ReactJS.
+Desafio do capítulo 1 no Ignite da Rocketseat na trilha ReactJS.
 
 #### Feito com: ReactJS e Javascript
